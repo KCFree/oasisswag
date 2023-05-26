@@ -1,2 +1,1 @@
 # oasisswag
-FristContract
